@@ -1,0 +1,22 @@
+7 2111 6403
+10
+1 7159 5 7636 6 4046 9 7967 11 6400 12 6652 15 4416 16 6536 21 6390 23 3459
+18
+f.pdf
+a.png
+f.cpp
+a.pdf
+c.cpp
+g.png
+d.cpp
+g.cpp
+d.pdf
+b.pdf
+f.png
+a.cpp
+g.pdf
+c.pdf
+b.cpp
+d.png
+e.pdf
+e.cpp

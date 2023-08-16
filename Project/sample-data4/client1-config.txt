@@ -1,0 +1,20 @@
+1 7159 6265
+11
+3 5008 4 3046 6 4046 7 2111 10 7612 11 6400 12 6652 14 4213 16 6536 18 2044 19 2002
+16
+f.pdf
+f.cpp
+a.pdf
+c.cpp
+g.png
+d.cpp
+b.png
+d.pdf
+f.png
+c.png
+a.cpp
+g.pdf
+e.png
+b.cpp
+e.pdf
+e.cpp

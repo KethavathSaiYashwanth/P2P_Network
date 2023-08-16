@@ -1,0 +1,20 @@
+22 3062 2471
+7
+2 4270 3 5008 5 7636 10 7612 17 5903 21 6390 23 3459
+16
+f.pdf
+a.png
+g.png
+d.cpp
+g.cpp
+d.pdf
+b.pdf
+f.png
+c.png
+a.cpp
+g.pdf
+c.pdf
+e.png
+d.png
+e.pdf
+e.cpp

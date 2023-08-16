@@ -1,0 +1,20 @@
+5 7636 7600
+12
+2 4270 4 3046 7 2111 8 5831 10 7612 11 6400 12 6652 15 4416 18 2044 19 2002 22 3062 24 5045
+16
+f.pdf
+a.png
+f.cpp
+a.pdf
+g.cpp
+d.pdf
+b.pdf
+c.png
+a.cpp
+g.pdf
+c.pdf
+e.png
+b.cpp
+d.png
+e.pdf
+e.cpp
